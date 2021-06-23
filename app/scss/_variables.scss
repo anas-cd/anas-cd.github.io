@@ -1,5 +1,5 @@
 // Media Queries
-$mq-620-down: "only screen and (max-width: 620px)";
+$mq-620-down: "only screen and (max-width: 619px)";
 $mq-620-up: "only screen and (min-width: 620px)";
 
 $mq-760-down: "only screen and (max-width: 759px)";
@@ -14,3 +14,7 @@ $mq-1000-up: "only screen and (min-width: 1000px)";
 $mq-1180-up: "only screen and (min-width: 1180px)";
 
 $mq-1400-up: "only screen and (min-width: 1400px)";
+
+// ranges 
+
+$mq-620to1300-range: "only screen and (min-width: 620px) and (max-width: 1300px)";
