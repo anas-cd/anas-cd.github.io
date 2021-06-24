@@ -12,13 +12,14 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Useful resources](#useful-resources)
+  - [Develpment path](#Develpment-path)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
+
 
 ## Overview
-Here you'll see I approached this challenge
+Here is how i approached this challenge 
 
 ### The challenge
 
@@ -34,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution URL](https://github.com/anas-cd/anas-cd.github.io.git)
-- Live Site URL: [live site URL](https://anas-cd.github.io/)
+- Solution URL: [solution URL](https://github.com/anas-cd/stats-preview-card-component)
+- Live Site URL: [live site URL](https://anas-cd.github.io/stats-preview-card-component/)
 
 ## My process
 First the desktop version of the webpage was designed then I moved to the mobile version, since there isn't any tablet size design, I sticked with the desktop version to be the tablet version as well but with more dynamic dimensions
@@ -75,7 +76,8 @@ this simply makes the breaker element takes the entire row forcing the follwing 
 - [css-tricks:A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - This helped me understanding how flexboxes work and I'm using it as some kink of cheatsheet.I'd recommend it to anyone still learning this concept
 - [tobiasahlin:Breaking to a new row with flexbox](https://tobiasahlin.com/blog/flexbox-break-to-new-row/) - This is an amazing article which helped me finally understand how to break to a new line in flexboxes.
 
-
+### Development path 
+In the following projects I'll try my best to make focus point of the picture on a specific point, for example here it would be better if the focus point of the picture is on the smiling lady
 ## Author
 
 - Website (still working on it) - [Anas Ali](https://anas-cd.github.io/)
